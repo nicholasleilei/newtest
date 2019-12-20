@@ -6,9 +6,8 @@ public class Test {
     System.out.println("newtestlei");
 
     System.out.println("我的地盘我做主 ");
-
+    System.out.println("我是刘怡东");
     System.out.println("lvhufenzhi");
-
 	}
 
 }
