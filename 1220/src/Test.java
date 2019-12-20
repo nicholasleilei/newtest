@@ -3,7 +3,11 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    System.out.println("奥利给！！！");
+
+    System.out.println("newtestlei");
+    
+    System.out.println("去去去去");
+
 	}
 
 }
